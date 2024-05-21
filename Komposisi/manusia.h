@@ -1,4 +1,4 @@
-#ifndef JANTUNG_H
-#define JANTUNG_H
+#ifndef MANUSIA_H
+#define MANUSIA_H
 
 using namespace std;
